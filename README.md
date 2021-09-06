@@ -35,7 +35,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img4.png"></img>
 <br>
-<img src=""></img>
+<img src="https://i.ibb.co/BzNWYr7/Capture.jpg"></img>
 <br>
 <img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img6.png"></img>
 <br>
