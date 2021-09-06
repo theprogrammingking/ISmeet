@@ -27,7 +27,22 @@
 
 
 ## ScreenShots
-
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<br>
 
 
 
