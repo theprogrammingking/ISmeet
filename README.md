@@ -1,9 +1,9 @@
 # Ismeet - Meet, chat, notes in just one place!
 
 
-### Project Link : https://meetify-a0446.firebaseapp.com/
+### Project Link : 
 
-### Presentation Link : https://bit.ly/meetify
+### Presentation Link : https://docs.google.com/presentation/d/1Fqso62w3jpgP63dqr8EPfkQChjqq-2J2IulLUyu1fRU/edit#slide=id.p
 
 
 ## Tech Stack
