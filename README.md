@@ -26,22 +26,22 @@
 
 
 
-## ScreenShots
+##  demo ScreenShots
 <img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img2.png"></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img3.png"></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img4.png"></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src=""></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img6.png"></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img7.png"></img>
 <br>
-<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img1.png"></img>
+<img src="https://raw.githubusercontent.com/Manasvi070902/Meetify/main/screenshots/img8.png"></img>
 <br>
 
 
